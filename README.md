@@ -106,11 +106,6 @@ git clone https://github.com/<your-username>/Animal-Face-Classification-PyTorch-
 cd Animal-Face-Classification-PyTorch-CNN
 pip install -r requirements.txt
 ```
-
-## License
-
-This project is released under the MIT License.
-
 ## Acknowledgements
 
 -   PyTorch
